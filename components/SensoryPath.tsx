@@ -9,25 +9,25 @@ const getMemories = (): Memory[] => [
     id: 'glance',
     title: "The Sanctuary of Glances.",
     content: "The classroom was never about the blackboards or the lectures. It was about the gravity of your presence. I remember the dust motes dancing in the sunlight between us.",
-    imageUrl: getAssetPath("glance")
+    imageUrl: getAssetPath("glance.png")
   },
   {
     id: 'hand',
     title: "Intertwined Fingers.",
     content: "There's a specific kind of magic that happens when our hands find each other. It’s not just skin touching skin; it’s a silent conversation. Coming home in your grasp.",
-    imageUrl: getAssetPath("hand")
+    imageUrl: getAssetPath("hand.png")
   },
   {
     id: 'kiss',
     title: "Breath, Lips, and Forever.",
     content: "The world stops when I kiss you. Whether it’s a tender forehead kiss that whispers 'I’ve got you,' or the soft pressure of our lips meeting, every second feels eternal.",
-    imageUrl: getAssetPath("kiss")
+    imageUrl: getAssetPath("kisss.png")
   },
   {
     id: 'ride',
     title: "Chasing Horizions.",
     content: "On that scooty, with the wind roaring past us and your arms wrapped tightly around my waist, I feel invincible. The city lights become a blur of gold, but you are my focus.",
-    imageUrl: getAssetPath("ride")
+    imageUrl: getAssetPath("ola.png")
   }
 ];
 

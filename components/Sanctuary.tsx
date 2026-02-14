@@ -60,7 +60,7 @@ const Sanctuary: React.FC<SanctuaryProps> = ({ onNext }) => {
     if (transparent / (imageData.data.length / 4) > 0.5) setIsRevealed(true);
   };
 
-  const intimateImgPath = getAssetPath("sanctuary");
+  const intimateImgPath = getAssetPath("intimate.png");
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-6 overflow-hidden bg-[#050505]">
